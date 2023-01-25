@@ -3,6 +3,6 @@
 Multiple linear regression model implementation from scratch in Python using only Numpy and Matplotlib
 
 10-fold cross validation
-MSE used errors with Regularization term used as loss function for finding optimal weights (convex optimization problem)
+MSE used errors with Regularization term used as loss function for finding optimal weights (convex optimization problem)\n
 Tuned ridge regularization lambda hyperparameter
 
